@@ -4,9 +4,6 @@
     "build": "tsc",
     "start": "node dist/index.js"
   },
-  "overrides": {
-    "uuid": "^11.1.1"
-  },
   "dependencies": {
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
